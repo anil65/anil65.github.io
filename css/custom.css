@@ -1,1 +1,29 @@
 /* your styles go here */
+.txt_justify
+{
+    text-align: justify;
+}
+.Ex_awards
+{
+    font-weight: 600;
+    font-size: 21px;
+}
+.txt_font_style
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.bg-color
+{
+    background-color:azure;
+}
+a:link
+{
+    text-decoration: none;
+    color:black;
+
+}
+.contact_details
+{
+    font-weight: 600;
+    font-size: 15px;
+}

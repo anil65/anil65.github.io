@@ -212,34 +212,18 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .about-section .progress-title {
-  font-weight: 300;
+  font-weight:600;
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
 
 .about-section .progress {
-  height: 30px;
-  border-radius: 0;
+  height: 5px;
+  border-radius: 25px;
 }
 
 .about-section .progress .progress-bar {
-  background: #4fbfa8;
-}
-
-.about-section .progress .progress-bar-skill1 {
-  background: #9adacd;
-}
-
-.about-section .progress .progress-bar-skill2 {
-  background: #87d3c4;
-}
-
-.about-section .progress .progress-bar-skill3 {
-  background: #74cdba;
-}
-
-.about-section .progress .progress-bar-skill4 {
-  background: #62c6b1;
+  background: #303fc9;
 }
 
 /*
@@ -593,6 +577,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 */
 footer.main-footer {
   padding: 60px 0;
+  height:50px;
   background: #222;
 }
 
